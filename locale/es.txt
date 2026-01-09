@@ -8,18 +8,18 @@ HotspotPanoramaOverlayArea_9CA0CE20_92FC_6D3D_41CB_B4DB67D93133.toolTip = Treppe
 ## Media
 
 ### Título
-panorama_92CEFC26_9EA8_10B7_41B1_04E80FC5A22D.label = Bad
-panorama_9207F76F_9EA8_30B4_41D4_671F23694949.label = Eingang
-panorama_923DF982_9EA8_306F_41B3_03A9E527A250.label = Küche/Essen
-panorama_92D05F4B_9EA8_10FD_41BC_2049FD0F70AB.label = Treppenhaus
-panorama_92390CE4_9EA8_11AB_41DD_5C16D563E624.label = Wohnen
-panorama_92CF9047_9EA8_30F5_41BC_1E268E3CD3B0.label = Zimmer 1
-panorama_92F7982B_9EA8_10BD_41BA_6CBFFB9A02C1.label = Zimmer 2
-panorama_92F31393_9EA8_106D_41E0_16EE276CC7EE.label = Zimmer 3
+panorama_AEDD9521_A387_2538_41E0_EDEFDC0128B5.label = Bad
+panorama_AE55FEF7_A380_E718_41D4_178F3E01C247.label = Eingang
+panorama_AEF7D557_A381_2518_41A4_A200398C2468.label = Küche/Essen
+panorama_AEF7C85E_A380_EB08_41E2_95F5220C0530.label = Treppenhaus
+panorama_AE1D6971_A381_2D19_41D5_AB608D2D7D95.label = Wohnen
+panorama_AEF8A4E0_A387_3B38_41D9_1C21A45BE497.label = Zimmer 1
+panorama_AED0AEEA_A387_E708_41D9_294DEB82917F.label = Zimmer 2
+panorama_AEED08DB_A387_2B09_41DF_B554B637113A.label = Zimmer 3
 
 ## Tour
 
 ### Descripción
 
 ### Título
-tour.name = 006
+tour.name = 005
