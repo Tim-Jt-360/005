@@ -1,0 +1,25 @@
+#: locale=es
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_9CA0CE20_92FC_6D3D_41CB_B4DB67D93133.toolTip = Treppenhaus
+
+## Media
+
+### Título
+panorama_92CEFC26_9EA8_10B7_41B1_04E80FC5A22D.label = Bad
+panorama_9207F76F_9EA8_30B4_41D4_671F23694949.label = Eingang
+panorama_923DF982_9EA8_306F_41B3_03A9E527A250.label = Küche/Essen
+panorama_92D05F4B_9EA8_10FD_41BC_2049FD0F70AB.label = Treppenhaus
+panorama_92390CE4_9EA8_11AB_41DD_5C16D563E624.label = Wohnen
+panorama_92CF9047_9EA8_30F5_41BC_1E268E3CD3B0.label = Zimmer 1
+panorama_92F7982B_9EA8_10BD_41BA_6CBFFB9A02C1.label = Zimmer 2
+panorama_92F31393_9EA8_106D_41E0_16EE276CC7EE.label = Zimmer 3
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = 006
