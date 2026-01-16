@@ -3,19 +3,36 @@
 ## Hotspot
 
 ### Tooltip
+HotspotPanoramaOverlayArea_C8C4EE53_C662_3394_41CB_FF4A7BC11D5B.toolTip = Bad 1
+HotspotPanoramaOverlayArea_9CB13313_92FC_FB03_41D6_69DFE07386AE.toolTip = Bad 2
+HotspotPanoramaOverlayArea_82DD0E6D_92FC_2D07_41E1_8B3C59383E5E.toolTip = Eingang
+HotspotPanoramaOverlayArea_82DD5E6D_92FC_2D07_41CE_3EF68D1DC230.toolTip = Eingang
+HotspotPanoramaOverlayArea_82DD7E6D_92FC_2D07_41B0_4CFDD4338431.toolTip = Eingang
+HotspotPanoramaOverlayArea_9CCA55A2_92FC_3F3D_41E0_01E476EA50E0.toolTip = Küche/Essen
+HotspotPanoramaOverlayArea_9CBED2E0_92FC_553D_41BE_7C177735DB3E.toolTip = Küche/Essen
+HotspotPanoramaOverlayArea_82DD1E6E_92FC_2D05_41C4_1BC486C40683.toolTip = Treppenhaus
 HotspotPanoramaOverlayArea_9CA0CE20_92FC_6D3D_41CB_B4DB67D93133.toolTip = Treppenhaus
+HotspotPanoramaOverlayArea_9DB7DFF6_92FC_2B05_41BF_4193233130F1.toolTip = Treppenhaus
+HotspotPanoramaOverlayArea_82DCEE6D_92FC_2D07_41A3_5C9430856F77.toolTip = Treppenhaus
+HotspotPanoramaOverlayArea_82DD0E6E_92FC_2D05_41B0_467FC754900A.toolTip = Treppenhaus
+HotspotPanoramaOverlayArea_9C7276C7_92FC_DD03_41C0_DE8664C3823E.toolTip = Wohnen
+HotspotPanoramaOverlayArea_82DD2E6D_92FC_2D07_41D9_45165D325C15.toolTip = Wohnen
+HotspotPanoramaOverlayArea_9C6B471D_92FC_DB07_41E0_B9BE610D3349.toolTip = Zimmer1
+HotspotPanoramaOverlayArea_9CA09EB6_92FC_6D02_41BE_07980A81432D.toolTip = Zimmer2
+HotspotPanoramaOverlayArea_9C9C731D_92FD_FB07_41D7_B4640C5A2E90.toolTip = Zimmer3
 
 ## Media
 
 ### Título
-panorama_AEDD9521_A387_2538_41E0_EDEFDC0128B5.label = Bad
-panorama_AE55FEF7_A380_E718_41D4_178F3E01C247.label = Eingang
-panorama_AEF7D557_A381_2518_41A4_A200398C2468.label = Küche/Essen
-panorama_AEF7C85E_A380_EB08_41E2_95F5220C0530.label = Treppenhaus
-panorama_AE1D6971_A381_2D19_41D5_AB608D2D7D95.label = Wohnen
-panorama_AEF8A4E0_A387_3B38_41D9_1C21A45BE497.label = Zimmer 1
-panorama_AED0AEEA_A387_E708_41D9_294DEB82917F.label = Zimmer 2
-panorama_AEED08DB_A387_2B09_41DF_B554B637113A.label = Zimmer 3
+panorama_D588A160_C622_31B4_41D2_D75F9F259823.label = Bad 1
+panorama_D79CAC74_C626_7793_41AC_03D1CDC8D959.label = Bad 2
+panorama_D7656014_C622_2F9C_41E3_77DD40EAEC05.label = Eingang
+panorama_D7760006_C622_EF7C_41E0_EB71E2AADB4C.label = Küche/Essen
+panorama_D790F3F9_C626_3094_41D0_E42424FA1313.label = Treppenhaus
+panorama_D76BEFC0_C622_30F4_41DC_C76F04460D1F.label = Wohnen
+panorama_D6F8B87C_C626_5F8C_41E1_458B04AAE856.label = Zimmer 1
+panorama_D76BB454_C625_D79C_41D8_F55D63E9C27D.label = Zimmer 2
+panorama_D7689E8D_C622_308C_41D1_2099914CDF72.label = Zimmer 3
 
 ## Tour
 
