@@ -24,7 +24,7 @@ HotspotPanoramaOverlayArea_9C9C731D_92FD_FB07_41D7_B4640C5A2E90.toolTip = Zimmer
 ## Media
 
 ### Título
-panorama_D588A160_C622_31B4_41D2_D75F9F259823.label = Bad 1
+panorama_DC4754FE_D170_BD94_41E7_7E89CBA7B93D.label = Bad 1
 panorama_D79CAC74_C626_7793_41AC_03D1CDC8D959.label = Bad 2
 panorama_D7656014_C622_2F9C_41E3_77DD40EAEC05.label = Eingang
 panorama_D7760006_C622_EF7C_41E0_EB71E2AADB4C.label = Küche/Essen
@@ -39,4 +39,4 @@ panorama_D7689E8D_C622_308C_41D1_2099914CDF72.label = Zimmer 3
 ### Descripción
 
 ### Título
-tour.name = 005
+tour.name = Im Gärtli
